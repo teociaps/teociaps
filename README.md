@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Matteo Ciapparelli
+
+I'm a self-taught passionate Full-Stack developer from Italy!
 
 <!--
 **teociaps/teociaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+https://github-readme-stats.vercel.app/api?username=teociaps
+| <a href="https://github.com/teociaps/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teociaps&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="teociaps's github stats" /></a> | <a href="https://github.com/teociaps/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teociaps&layout=compact&theme=dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+<!-- TODO: Insert languages/tech icon's list -->
