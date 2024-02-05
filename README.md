@@ -2,6 +2,8 @@
 
 I'm a self-taught passionate Full-Stack developer from Italy!
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper)
+
 <!--
 **teociaps/teociaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
