@@ -1,8 +1,9 @@
-### Hi there 👋 I am Matteo Ciapparelli
+[![trophy](https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Matteo Ciapparelli here!
 
 I'm a self-taught passionate Full-Stack developer from Italy!
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper)
 
 <!--
 **teociaps/teociaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +19,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://github-readme-stats.vercel.app/api?username=teociaps
-| <a href="https://github.com/teociaps/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=teociaps&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="teociaps's github stats" /></a> | <a href="https://github.com/teociaps/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teociaps&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <!-- TODO: Insert languages/tech icon's list -->
+
+<hr>
+
+<p align="center">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=teociaps&show_icons=true&theme=vision-friendly-dark">
+  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teociaps&layout=compact&theme=vision-friendly-dark">
+</p>
+<p align="center">
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=teociaps&theme=vision-friendly-dark">
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper">
+</p>
