@@ -1,8 +1,14 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15">
+</p>
 
-### Matteo Ciapparelli here!
+<p align="center">
+ <b>☆꧁✬◦°˚°◦. ʍǟȶȶɛօ ƈɨǟքքǟʀɛʟʟɨ .◦°˚°◦✬꧂☆</b>
+</p>
 
+### About Me
 I'm a self-taught passionate Full-Stack developer from Italy!
+
 
 
 <!--
