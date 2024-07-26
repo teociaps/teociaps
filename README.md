@@ -4,15 +4,15 @@
 
 <h3 align="center">☆꧁✬◦°˚°◦. ʍǟȶȶɛօ ƈɨǟքքǟʀɛʟʟɨ .◦°˚°◦✬꧂☆</h3>
 
+<br/>
 
-### About Me
-
-I'm a self-taught passionate Full-Stack developer from Italy!
-
+<div align="center">
+   <p>A passionate Full-Stack Developer from Italy 🟢⚪🔴</p>
+   <p>...</p>
+</div>
 
 
 <!--
-**teociaps/teociaps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
