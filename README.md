@@ -8,9 +8,13 @@
 
 <div align="center">
    <p>A passionate Full-Stack Developer from Italy 🟢⚪🔴</p>
-   <p>...</p>
 </div>
 
+<hr>
+
+<h3 align="center">Languages and Tools</h3>
+
+<!-- TODO: Insert languages/tech icon's list -->
 
 <!--
 
@@ -25,8 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<!-- TODO: Insert languages/tech icon's list -->
 
 <hr>
 
