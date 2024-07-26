@@ -2,11 +2,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15">
 </p>
 
-<p align="center">
- <b>☆꧁✬◦°˚°◦. ʍǟȶȶɛօ ƈɨǟքքǟʀɛʟʟɨ .◦°˚°◦✬꧂☆</b>
-</p>
+<h3 align="center">☆꧁✬◦°˚°◦. ʍǟȶȶɛօ ƈɨǟքքǟʀɛʟʟɨ .◦°˚°◦✬꧂☆</h3>
+
 
 ### About Me
+
 I'm a self-taught passionate Full-Stack developer from Italy!
 
 
