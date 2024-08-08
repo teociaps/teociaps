@@ -12,9 +12,30 @@
 
 <hr>
 
-<h3 align="center">Languages and Tools</h3>
+  <h3 align="center">Languages and Tools</h3>
+  
+  <p align="center">
+    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teociaps&layout=compact&theme=vision-friendly-dark">
+  </p>
+  
+  <!-- TODO: Insert languages/tech icon's list -->
 
-<!-- TODO: Insert languages/tech icon's list -->
+<hr>
+
+  <p align="center">
+    <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=teociaps&show_icons=true&theme=vision-friendly-dark">
+  </p>
+  <p align="center">
+    <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=teociaps&theme=vision-friendly-dark">
+  </p>
+
+<hr>
+
+  <p align="center">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper">
+  </p>
+
+
 
 <!--
 
@@ -29,19 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr>
-
-<p align="center">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=teociaps&show_icons=true&theme=vision-friendly-dark">
-  <img width="500" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teociaps&layout=compact&theme=vision-friendly-dark">
-</p>
-<p align="center">
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=teociaps&theme=vision-friendly-dark">
-</p>
-
-<hr>
-
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper">
-</p>
