@@ -2,7 +2,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15">
 </p>
 
-<h3 align="center">☆꧁✬◦°˚°◦. ʍǟȶȶɛօ ƈɨǟքքǟʀɛʟʟɨ .◦°˚°◦✬꧂☆</h3>
+<h3 align="center">☆꧁✬◦°˚°◦. ƬΣЦZ .◦°˚°◦✬꧂☆</h3>
 
 <br/>
 
