@@ -20,7 +20,7 @@
   
   <!-- TODO: Insert languages/tech icon's list -->
   <p align="center">
-    <img src="https://github-bubble-chart.vercel.app?username=teociaps&title=My%20Techs&legend=true&legend-align=center&percentages=true&theme=dark">
+    <img src="https://github-bubble-chart.vercel.app?username=teociaps&title=My%20Techs&theme=dark">
   </p>
   
 <hr>
