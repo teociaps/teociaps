@@ -14,8 +14,6 @@
 
 <p align="center">
   <img src="https://github-bubble-chart.vercel.app?username=teociaps&title=Most%20Used%20Languages&theme=dark">
-  
-  <!-- TODO: Insert tech/tools chart -->
   <img src="https://github-bubble-chart.vercel.app?username=teociaps&mode=custom-config&config-path=ghbc-my-tech-and-tools.json">
 </p>
   
