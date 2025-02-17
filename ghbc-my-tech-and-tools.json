@@ -17,7 +17,7 @@
     "theme": "dark_high_contrast"
   },
   "data": [
-    { "name": "Azure", "value": 50, "color": "#2faae8", "icon": "data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAABAAAAAJACAMAAAAkS+TnAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADAFBMVEVHcEwOaqkjleE4yvMjl9sGXq4Q[..." },
+    { "name": "Azure", "value": 50, "color": "#2faae8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" },
     { "name": "DevOps", "value": 50, "color": "#0ad464" },
     { "name": "Git", "value": 50, "color": "#df523c" },
     { "name": "VSCode", "value": 50, "color": "#087ac1" },
