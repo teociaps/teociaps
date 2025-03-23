@@ -18,7 +18,7 @@
   },
   "data": [
     { "name": "Azure", "value": 50, "color": "#2faae8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" },
-    { "name": "DevOps", "value": 50, "color": "#0ad464", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" },
+    { "name": "DevOps", "value": 50, "color": "#0d7dd8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" },
     { "name": "Git", "value": 50, "color": "#df523c", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" },
     { "name": "Docker", "value": 50, "color": "#2496ed", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" },
     { "name": "Kubernetes", "value": 50, "color": "#326ce5", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" },
@@ -26,6 +26,8 @@
     { "name": "NuGet", "value": 50, "color": "#004880", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" },
     { "name": "npm", "value": 50, "color": "#cb3837", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" },
     { "name": "Yarn", "value": 50, "color": "#2c8ebb", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" },
+    { "name": "bun", "value": 50, "color": "#fbf0df", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" },
+    { "name": "Node.js", "value": 50, "color": "#58a846", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" },
     { "name": "Angular", "value": 50, "color": "#dd0031", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" },
     { "name": "ASP.NET Core", "value": 50, "color": "#512bd4", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" },
     { "name": "Vitest", "value": 50, "color": "#6e9f18", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" },
