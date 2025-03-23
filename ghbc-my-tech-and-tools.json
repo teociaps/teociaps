@@ -14,16 +14,30 @@
       "show": true,
       "align": "center"
     },
-    "theme": "dark_high_contrast"
+    "theme": "dark"
   },
   "data": [
-    { "name": "Azure", "value": 50, "color": "#2faae8", "icon": "https://raw.githubusercontent.com/teociaps/teociaps/main/azure.png" },
-    { "name": "DevOps", "value": 50, "color": "#0ad464" },
-    { "name": "Git", "value": 50, "color": "#df523c" },
-    { "name": "VSCode", "value": 50, "color": "#087ac1" },
-    { "name": "Visual Studio", "value": 50, "color": "#b462b9" },
-    { "name": "Docker", "value": 50, "color": "#2496ed" },
-    { "name": "Kubernetes", "value": 50, "color": "#326ce5" },
-    { "name": "GitHub Actions", "value": 50, "color": "#2088FF" }
+    { "name": "Azure", "value": 50, "color": "#2faae8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" },
+    { "name": "DevOps", "value": 50, "color": "#0ad464", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" },
+    { "name": "Git", "value": 50, "color": "#df523c", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" },
+    { "name": "Docker", "value": 50, "color": "#2496ed", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" },
+    { "name": "Kubernetes", "value": 50, "color": "#326ce5", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" },
+    { "name": "GitHub Actions", "value": 50, "color": "#15191f", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" },
+    { "name": "NuGet", "value": 50, "color": "#004880", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" },
+    { "name": "npm", "value": 50, "color": "#cb3837", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" },
+    { "name": "Yarn", "value": 50, "color": "#2c8ebb", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" },
+    { "name": "Angular", "value": 50, "color": "#dd0031", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" },
+    { "name": "ASP.NET Core", "value": 50, "color": "#512bd4", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" },
+    { "name": "Vitest", "value": 50, "color": "#6e9f18", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" },
+    { "name": "xUnit", "value": 50, "color": "#ffffff", "icon": "https://raw.githubusercontent.com/xunit/media/d7960bf1a44202b36e0576c6a653278f5c8e5db6/full-logo.svg" },
+    { "name": "ESLint", "value": 50, "color": "#4b32c3", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" },
+    { "name": "Prettier", "value": 50, "color": "#f7b93e", "icon": "https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-icon-clean-centred.png" },
+    { "name": "Husky", "value": 50, "color": "#6e8896", "icon": "https://static-00.iconduck.com/assets.00/husky-icon-1947x2048-59dxcnh0.png" },
+    { "name": "Vercel", "value": 50, "color": "#000000", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" },
+    { "name": "Swagger", "value": 50, "color": "#85ea2d", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" },
+    { "name": "MongoDB", "value": 50, "color": "#47a248", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" },
+    { "name": "CosmosDB", "value": 50, "color": "#59b3d8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" },
+    { "name": "Redis", "value": 50, "color": "#dc382d", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" },
+    { "name": "SQL Server", "value": 50, "color": "#cc2927", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" }
   ]
 }
