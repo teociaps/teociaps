@@ -2,21 +2,22 @@
   <img src="https://github-profile-trophy.vercel.app/?username=teociaps&title=-Followers,-Reviews,-Repositories,-Issues&theme=juicyfresh&column=-1&margin-w=15&margin-h=15">
 </p>
 <hr>
-<h3 align="center">☆꧁✬◦°˚°◦. Ƭ ‎‎ Σ ‎ ‎Ц ‎ ‎Z .◦°˚°◦✬꧂☆</h3>
-
+<h3 align="center">☆꧁✬◦°˚°◦. Ƭ‎ ‎‎ ‎Σ‎ ‎ Ц‎ ‎ Z .◦°˚°◦✬꧂☆</h3>
 <p align="center">
-  /‎ ‎ ‎  ‎ ‎ |‎ ‎  ‎ ‎ ‎  ‎|‎ ‎  ‎  ‎‎ ‎ \<br>
- ‎ ‎o‎ ‎ ‎  ‎ ‎ s ‎  ‎  ‎ ‎‎ ‎n ‎ ‎  ‎  ‎ ‎i ‎ ‎<br>
-  m  ‎ ‎ ‎ ‎ p ‎ ‎  ‎ ‎  ‎b ‎ ‎  ‎ ‎  ‎‎‎t ‎<br>
-  a  ‎ ‎ ‎ ‎ r ‎ ‎ ‎ ‎  ‎ ‎e ‎ ‎  ‎ ‎  i ‎<br>
+  /‎‎ ‎ ‎ ‎ ‎ ‎ |‎‎ ‎ ‎ ‎‎ ‎ ‎ |‎‎ ‎ ‎ ‎ ‎‎ ‎ \<br>
+<b>
+  o‎‎ ‎ ‎ ‎ ‎ ‎ s‎ ‎ ‎ ‎ ‎ ‎ n‎ ‎ ‎ ‎ ‎ ‎ ‎i‎<br>
+  m‎ ‎ ‎ ‎‎‎‎ ‎ p‎ ‎ ‎ ‎ ‎ ‎‎‎‎ b‎ ‎ ‎ ‎ ‎‎ ‎‎‎ t<br>
+  a‎ ‎ ‎ ‎ ‎ ‎ r‎ ‎ ‎ ‎ ‎ ‎‎ ‎ e‎ ‎ ‎ ‎ ‎ ‎ i<br>
 <i>
-‎ ‎ t‎‎ ‎ ‎ ‎ ‎ ‎ e‎‎ ‎ ‎‎ ‎ ‎  ‎ a‎ ‎ ‎‎‎  ‎‎ ‎‎‎‎👀<br>
+  ‎ ‎ t‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎e‎‎‎ ‎ ‎ ‎ ‎ ‎‎ a‎‎ ‎‎‎ ‎‎ ‎‎ 👀<br>
 </i>
-  o ‎ ‎ ‎  ‎ s   ‎ ‎ ‎ ‎‎ ‎t‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎ ‎‎‎‎ ‎‎‎‎‎<br>
- ‎ ‎ ‎ ‎ ‎ ‎   ‎s  ‎ ‎  ‎ ‎‎ ‎a ‎ ‎  ‎ ‎   <br>
- ‎ ‎‎ ‎ ‎ ‎ ‎   ‎‎o ‎  ‎ ‎ ‎ ‎ ‎b ‎ ‎  ‎ ‎  <br>
- ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎  ‎ ‎ l ‎ ‎ ‎ ‎  ‎‎ <br>
- ‎ ‎  ‎  ‎  ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎‎e ‎ ‎  ‎‎ ‎ <br>
+  ‎o‎ ‎ ‎ ‎ ‎ ‎ s‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎t‎‎ ‎‎ ‎‎ ‎‎ ‎ ‎‎ ‎‎ ‎‎‎‎ <br>
+   ‎ ‎ ‎ ‎ ‎ ‎ s‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎a‎ ‎ ‎ ‎ <br>
+   ‎ ‎ ‎‎ ‎ ‎ ‎ o‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎b‎ ‎ ‎ ‎ <br>
+   ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎l‎ ‎ ‎ ‎ <br>
+   ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎e‎ ‎ ‎ ‎ <br>
+</b>
 </p>
 <br/>
 <div align="center">
@@ -45,4 +46,7 @@
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fteociaps&label=Visitors&countColor=%232ccce4&style=flat&labelStyle=upper">
   <a href="mailto:teociaps.github@gmail.com"><img src="https://img.shields.io/badge/-Email_me-D14836?style=rounded&logo=Gmail&logoColor=white&link=mailto:teociaps.github@gmail.com"></a>
+</p>
+<p align="center">
+   Hey there! I'm busy piecing together some pretty cool, useful thingies behind the scenes. <i>No spoilers here— Stay tuned for more!</i>
 </p>
