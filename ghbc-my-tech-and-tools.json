@@ -26,7 +26,7 @@
     { "name": "NuGet", "value": 50, "color": "#004880", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" },
     { "name": "npm", "value": 50, "color": "#cb3837", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" },
     { "name": "Yarn", "value": 50, "color": "#2c8ebb", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" },
-    { "name": "bun", "value": 50, "color": "#fbf0df", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" },
+    { "name": "React", "value": 50, "color": "#61dafb", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" },
     { "name": "Node.js", "value": 50, "color": "#58a846", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" },
     { "name": "Angular", "value": 50, "color": "#dd0031", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" },
     { "name": "ASP.NET Core", "value": 50, "color": "#512bd4", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" },
@@ -34,12 +34,13 @@
     { "name": "xUnit", "value": 50, "color": "#ffffff", "icon": "https://raw.githubusercontent.com/xunit/media/d7960bf1a44202b36e0576c6a653278f5c8e5db6/full-logo.svg" },
     { "name": "ESLint", "value": 50, "color": "#4b32c3", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" },
     { "name": "Prettier", "value": 50, "color": "#f7b93e", "icon": "https://raw.githubusercontent.com/prettier/prettier-logo/refs/heads/master/images/prettier-icon-clean-centred.png" },
-    { "name": "Husky", "value": 50, "color": "#6e8896", "icon": "https://static-00.iconduck.com/assets.00/husky-icon-1947x2048-59dxcnh0.png" },
+    { "name": "Husky", "value": 50, "color": "#6e8896", "icon": "https://user-images.githubusercontent.com/2346707/47198096-1420c280-d3b6-11e8-8bd7-8d998158185d.png" },
     { "name": "Vercel", "value": 50, "color": "#000000", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" },
     { "name": "Swagger", "value": 50, "color": "#85ea2d", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" },
     { "name": "MongoDB", "value": 50, "color": "#47a248", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" },
     { "name": "CosmosDB", "value": 50, "color": "#59b3d8", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cosmosdb/cosmosdb-original.svg" },
     { "name": "Redis", "value": 50, "color": "#dc382d", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" },
-    { "name": "SQL Server", "value": 50, "color": "#cc2927", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" }
+    { "name": "SQL Server", "value": 50, "color": "#cc2927", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" },
+    { "name": "Flutter", "value": 50, "color": "#27aacd", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" }
   ]
 }
